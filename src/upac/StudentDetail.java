@@ -103,7 +103,7 @@ public class StudentDetail extends javax.swing.JDialog {
         jPanel1.add(fullname, new org.netbeans.lib.awtextra.AbsoluteConstraints(140, 20, 382, 37));
 
         faculte.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
-        faculte.setText("Faculte de Science");
+        faculte.setText("Faculté de Science");
         jPanel1.add(faculte, new org.netbeans.lib.awtextra.AbsoluteConstraints(140, 70, 286, 24));
 
         matricule.setText("jLabel3");
@@ -111,12 +111,12 @@ public class StudentDetail extends javax.swing.JDialog {
 
         departement.setBackground(new java.awt.Color(77, 56, 91));
         departement.setFont(new java.awt.Font("Tahoma", 1, 16)); // NOI18N
-        departement.setText("Departement");
+        departement.setText("Département");
         jPanel1.add(departement, new org.netbeans.lib.awtextra.AbsoluteConstraints(22, 169, 279, 27));
 
         address.setBackground(new java.awt.Color(77, 56, 91));
         address.setFont(new java.awt.Font("Tahoma", 1, 16)); // NOI18N
-        address.setText("Address");
+        address.setText("Adresse");
         jPanel1.add(address, new org.netbeans.lib.awtextra.AbsoluteConstraints(22, 207, 279, 27));
 
         active.setBackground(new java.awt.Color(77, 56, 91));
